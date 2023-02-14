@@ -26,8 +26,10 @@ mvn clean install
 
 ### Running
 
-java -jar  -DFILE="/Users/apragasam/Documents/Work/Tmp/create_nldata_5L.csv" -DFSBASE="demo.myfreshworks.com" -DTOKEN=123 NLiveSync.jar
-
+  `java -jar  
+    -DFILE="/Users/apragasam/Documents/Work/Tmp/create_nldata_5L.csv" 
+    -DFSBASE="demo.myfreshworks.com" 
+    -DTOKEN=123 NLiveSync.jar`
 
 
 ## Built With
